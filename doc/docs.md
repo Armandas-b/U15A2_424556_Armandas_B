@@ -34,9 +34,19 @@
 
 ### Statement of User Requirements
 
+The web page will be a single page website that will be used to promote a fictional company called "Hot Beans Web". The web page will be used to promote the company to potential employees. It will provide information about the company and job offers. The page will also include a form to fill out to apply for a job.
+
 ### Tooling
 
+- HTML, CSS and JS
+
+- Visual Studio Code
+
+- GitHub
+
 ## Plan
+
+![Planning](../PLAN.png)
 
 ## Design
 

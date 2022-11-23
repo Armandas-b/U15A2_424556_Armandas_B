@@ -88,8 +88,8 @@ The web page will be a single page website that will be used to promote a fictio
 
 ### User Feedback
 
-+ verbatim
-+ sourced
+- verbatim
+- sourced
 = x2
 
 

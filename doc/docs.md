@@ -136,6 +136,3 @@ Variation 2:
 ### Evaluation
 
 ## References
-
-
-

@@ -31,6 +31,7 @@
     - [Response to Feedback](#response-to-feedback)
     - [Evaluation](#evaluation)
   - [References](#references)
+    - [Employee pictures](#employee-pictures)
 
 ## Requirements
 
@@ -65,10 +66,6 @@ The web page will be a single page website that will be used to promote a fictio
 This section includes the design choices made for the website. It includes the wireframes, colour schemes, typography, navigation. While also providing a justification for the design choices made.
 
 ### Wireframes/Storyboards
-
-Variation 1:
-
-
 
 Variation 2:
 
@@ -136,3 +133,12 @@ Variation 2:
 ### Evaluation
 
 ## References
+
+### Employee pictures
+
+[Profile1](https://unsplash.com/photos/pAtA8xe_iVM)
+
+[Profile2](https://unsplash.com/photos/0Zx1bDv5BNY)
+
+[Profile3](https://unsplash.com/photos/pzOUnvx9c1E)
+

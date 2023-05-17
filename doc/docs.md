@@ -118,3 +118,5 @@ These design choices, combining the colors #0F4C81, #FFD700, and #E9E7E7 with th
 
 ### A. page development process
 
+In the development process, I utilized my designs and Bootstrap Studio to create an effective and visually appealing website. Here's how I incorporated these elements:
+

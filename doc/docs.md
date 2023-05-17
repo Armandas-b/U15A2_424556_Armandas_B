@@ -120,3 +120,57 @@ These design choices, combining the colors #0F4C81, #FFD700, and #E9E7E7 with th
 
 In the development process, I utilized my designs and Bootstrap Studio to create an effective and visually appealing website. Here's how I incorporated these elements:
 
+Design Implementation: I translated my designs into actual web pages, ensuring accuracy in layout, colors, fonts, and design elements.
+
+Bootstrap Studio Integration: I utilized Bootstrap Studio's drag-and-drop interface to quickly construct the web pages, leveraging its pre-designed components for headers, footers, navigation menus, and forms.
+
+Responsive Design: I ensured that the website is responsive across different devices and screen sizes, using Bootstrap Studio's responsive design tools to adjust the layout and content accordingly.
+
+Customization and Styling: I customized colors, fonts, and styles in Bootstrap Studio to maintain consistency and visual harmony throughout the website.
+
+### B. Ensuring functionality, compatibility, and usability
+
+#### Functionality
+
+The website is fully functional and meets all the requirements outlined in the design brief. It includes a company profile, profiles of existing trainee web developers, job specifications, an online application form, and links to web development courses.
+
+Company profile/description:
+![Company Profile](docIMG\companyProfile.png)
+
+Profiles of existing trainee web developers:
+
+![Profiles of existing trainee web developers](docIMG\profiles.png)
+
+Job specifications:
+
+![Job specifications](docIMG\jobSpecs.png)
+
+Online application form:
+
+![Online application form](docIMG\form.png)
+
+Links to web development courses:
+
+<!-- ADD IT -->
+
+#### Compatibility
+
+The website is compatible with all major browsers, including Chrome, Firefox, Safari, and Edge. It is also compatible with mobile devices and tablets, ensuring a consistent user experience across different platforms.
+
+| Browser |Version| Compatibility |
+| ------- |---- |------------- |
+| Chrome  | 113.0.5672.126 |Yes  |
+| Firefox |  113.0.1 (64-bit)| Yes |
+| Edge | 113.0.1774.42 |Yes |
+
+Webpage responsiveness:
+
+Mobile:
+
+In the mobile view this example section changes to a carousel
+
+![Webpage responsiveness](docIMG\responsive.png)
+
+Desktop:
+
+![Webpage responsiveness](docIMG\responsive2.png)

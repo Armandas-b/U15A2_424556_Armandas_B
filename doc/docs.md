@@ -1,144 +1,120 @@
-# Unit 15 Assignment Two
+I. Introduction
+A. Brief overview of the assignment and vocational scenario
+B. Introduction to Hot Beans Web and their recruitment needs
+C. Description of the target audience for the page
 
-- [Unit 15 Assignment Two](#unit-15-assignment-two)
-  - [Requirements](#requirements)
-    - [Statement of User Requirements](#statement-of-user-requirements)
-    - [Tooling](#tooling)
-  - [Plan](#plan)
-  - [Design](#design)
-    - [Wireframes/Storyboards](#wireframesstoryboards)
-    - [Typography](#typography)
-    - [Colours](#colours)
-    - [Design sheet](#design-sheet)
-    - [Alternative Design](#alternative-design)
-    - [Design Justification](#design-justification)
-    - [Sources](#sources)
-    - [Test Plan](#test-plan)
-  - [Implementation](#implementation)
-    - [Change Log](#change-log)
-    - [Justification of Design Changes](#justification-of-design-changes)
-  - [Test](#test)
-    - [Validation Reports](#validation-reports)
-    - [Test Results](#test-results)
-      - [Functionality](#functionality)
-      - [Performance](#performance)
-    - [Rectification of Errors](#rectification-of-errors)
-    - [Outstanding Issues](#outstanding-issues)
-    - [User Feedback](#user-feedback)
-      - [Design feedback from peers](#design-feedback-from-peers)
-      - [Implementation feedback](#implementation-feedback)
-  - [Review](#review)
-    - [Response to Feedback](#response-to-feedback)
-    - [Evaluation](#evaluation)
-  - [References](#references)
-    - [Employee pictures](#employee-pictures)
+II. Task 1: Designing the page
+A. Identifying user requirements
+B. Visual designs for the page
+C. Design rationale
+D. Technical documentation
+E. Justification of design decisions
 
-## Requirements
+III. Task 2: Developing and Testing the page
+A. page development process
+B. Ensuring functionality, compatibility, and usability
+C. Test plans and data
+D. User feedback and changes made
+E. Annotated screenshots of the completed page
 
-### Statement of User Requirements
+IV. page Optimization
+A. Optimization based on testing and user feedback
+B. Annotated screenshots of the optimized page
 
-The web page will be a single page website that will be used to promote a fictional company called "Hot Beans Web". The web page will be used to promote the company to potential employees. It will provide information about the company and job offers. The page will also include a form to fill out to apply for a job.
-
-- A profile of the company itself
-
-- profiles of existing trainee web developers
-
-- job specifications and required qualifications
-
-- an on-line application form
-
-- links to web development courses
-  
-### Tooling
-
-- HTML, CSS and JS
-
-- Visual Studio Code
-
-- GitHub
-
-## Plan
-
-![Planning](../PLAN.png)
-
-## Design
-
-This section includes the design choices made for the website. It includes the wireframes, colour schemes, typography, navigation. While also providing a justification for the design choices made.
-
-### Wireframes/Storyboards
-
-Variation 2:
-
-![Variation 2](../doc/docIMG/DESIGN2.png)
+V. Evaluation of the Design, Development, and Optimization
+A. Effectiveness in meeting client requirements
+B. Comparison to alternative solutions
+C. Evidence-based evaluation using feedback and testing results
+D. Reflection on own skills, performance, and behaviors
 
 
+# U15-A2: Designing and Developing a page
 
-### Typography
+## I. Introduction
 
-![Typography](../doc/docIMG/DESIGN2Typography.png)
+In this assignment, I was tasked with designing and developing a new section for Hot Beans Web, a web development company, to attract potential web developers. The section should include a company profile, profiles of existing trainee web developers, job specifications, an online application form, and links to web development courses. The target audience is individuals who have completed web development training and are seeking employment in the field.
 
-### Colours
+## II. Task 1: Designing the page
 
-![Colours](../doc/docIMG/DESIGN2Colours.png)
+### A. Identifying user requirements
 
-### Design sheet
+#### Client Needs
 
-![DesignSheet](../doc/docIMG/Design2DesignSheet.png)
+[ ] Company Profile: The page should include a profile of Hot Beans Web, highlighting the company's expertise, achievements, and unique selling points. This section should effectively convey the company's values and establish its credibility among prospective employees.
 
-### Alternative Design
+[ ] Profiles of Existing Trainee Web Developers: The page should feature profiles of current trainee web developers at Hot Beans Web.
 
-![Variation 1](../doc/docIMG/DESIGN1.png)
+[ ] Job Specifications and Required Qualifications: The page should present job specifications for available positions at Hot Beans Web. This section should outline the specific roles, responsibilities, and qualifications required for each position.
 
-### Design Justification
+[ ] Online Application Form: The page should include an online application form that allows potential candidates to submit their details and apply for available positions directly through the page. The form should be user-friendly and intuitive, simplifying the application.
 
-### Sources
+[ ] Links to Web Development Courses: The page should provide a curated list of relevant web development courses, training programs, or certifications.
 
-### Test Plan
+#### Target audience and User Needs
 
-## Implementation
+The target audience for the page is individuals who have completed training courses or obtained qualifications related to web development and are now looking for a job as a web developer. These individuals are seeking employment opportunities in the field of web development and are likely to have a good understanding of web technologies and industry standards.
 
-### Change Log
+The page should provide information about Hot Beans Web and its recruitment needs, as well as the job specifications and required qualifications for available positions.
 
-### Justification of Design Changes
+The page should be user-friendly and intuitive, allowing potential candidates to easily navigate through the content and apply for available positions, thus making the application process as simple and fast as possible.
 
-## Test
+### B. Visual designs for the page
 
-### Validation Reports
+To design the concepts of the page I have used Figma. I have created two different designs for the page. The designs were based on the client's requirements and the target audience's needs.
 
-### Test Results
+#### Design 1
 
-#### Functionality
+![Design 1](docIMG\DESIGN1.png)
 
-#### Performance
+#### Design 2
 
-### Rectification of Errors
+![Design 2](docIMG\DESIGN2.png)
 
-### Outstanding Issues
+### C. Design rationale
 
-### User Feedback
+#### Design 1
 
-#### Design feedback from peers
+The first design follows a very stale and boring layout. It meets the requirements but at the bare minimum. For a web design company, this would not be very intuitive and attractive.
 
-|Name| Feedback |
-|----|----------|
-| Saul Coleman | Version 1- The layout is also not very adventurous. A single column with no variation is very boring. The section delighted to the main heading is also weirdly places and doesn't leave sufficient gaps between it and the rest of the content (or is otherwise too small, perhaps). Version 2- Looks much more professional and would be much easier for a user to use and a designer to understand. Content throughout the page is laid out in a dynamic way but has enough space between them to break the page up. Improves on the faults of V1 significantly. |
-| Viktor Salihu| Design 1- The design is very basic and doesn't have much to it. The logo is all the way to the left, what is the problem with that is that people often use the logo as a home button and if the logo was positioned in the center, it will look more user-friendly.  Variation 2 is much better, 4 nav links which you can spread apart and put the logo between them. It is good that it has straight to the point to the top of the page, which is good for users because they don't have to scroll down to find the information they need. The website looks professional and sharp, which is what its needed for this type of website. |
+#### Design 2
 
-#### Implementation feedback
+The second design follows a more modern and attractive layout. It meets the requirements and is more intuitive and attractive. This design would be more appealing to the target audience.
 
-## Review
+It also includes responsive design, which is highly important in today's world, and again it would make the company look good at what they do.
 
-### Response to Feedback
+#### Final Decision
 
-### Evaluation
+I have decided to go with Design 2 because it is more modern and attractive. It also includes responsive design and would make the company look good at what they do.
 
-## References
+### D. Technical documentation
 
-### Employee pictures
+#### Colours and Fonts
 
-[Profile1](https://unsplash.com/photos/pAtA8xe_iVM)
+The colours used in the design are:
 
-[Profile2](https://unsplash.com/photos/0Zx1bDv5BNY)
+![Colours](docIMG\colours.png)
 
-[Profile3](https://unsplash.com/photos/pzOUnvx9c1E)
+The fonts used in the design are:
+
+![Fonts](docIMG\font.png)
+
+### E. Justification of design decisions
+
+Colors:
+
+I chose the deep blue color (#0F4C81) to evoke a sense of professionalism, trust, and stability. It complements the nature of our web development company and creates a visually appealing contrast with other elements on the website.
+
+To add energy and sophistication, I included a vibrant gold color (#FFD700). This color helps draw attention to important elements like job listings or application forms, acting as a visual cue for users.
+
+For a neutral background that allows other colors and content to stand out, I opted for a light gray color (#E9E7E7). It creates a clean and modern aesthetic while ensuring readability and visual balance.
+
+In terms of font choice, I selected Open Sans. It is a versatile and widely-used font known for its readability and compatibility across devices and browsers. Its clean and modern design aligns well with our desired professional and contemporary image.
+
+To establish visual hierarchy and emphasize important elements, I used different font sizes. Larger sizes were applied to headings to make them stand out, while smaller sizes were used for body text to ensure readability and maintain a consistent visual style.
+
+These design choices, combining the colors #0F4C81, #FFD700, and #E9E7E7 with the Open Sans font in different sizes, aim to create a visually appealing and professional website. The color scheme helps establish a strong brand identity, while the font choice and size variations contribute to readability and hierarchy of information. Overall, these design choices align with our objective of attracting potential web developers and providing an engaging user experience.
+
+## III. Task 2: Developing and Testing the page
+
+### A. page development process
 

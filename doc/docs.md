@@ -27,7 +27,6 @@ B. Comparison to alternative solutions
 C. Evidence-based evaluation using feedback and testing results
 D. Reflection on own skills, performance, and behaviors
 
-
 # U15-A2: Designing and Developing a page
 
 ## I. Introduction
@@ -159,18 +158,49 @@ The website is compatible with all major browsers, including Chrome, Firefox, Sa
 
 | Browser |Version| Compatibility |
 | ------- |---- |------------- |
-| Chrome  | 113.0.5672.126 |Yes  |
-| Firefox |  113.0.1 (64-bit)| Yes |
-| Edge | 113.0.1774.42 |Yes |
+| Chrome  | 113.0.5672.126 |  Working as intended   |
+| Firefox |  113.0.1 (64-bit)| Working as intended |
+| Edge | 113.0.1774.42 | Working as intended |
 
 Webpage responsiveness:
 
 Mobile:
 
-In the mobile view this example section changes to a carousel
+In the mobile view this example section('Our Staff') changes to a carousel
 
 ![Webpage responsiveness](docIMG\responsive.png)
 
 Desktop:
 
+In the desktop view this example section('Our Staff') changes to a static 3 image section
+
 ![Webpage responsiveness](docIMG\responsive2.png)
+
+#### Usability
+
+The website is easy to navigate and use, with an easy-to-use navigation bar and simple layout. It is also responsive, which means that the website can be accessible on various devices and screen sizes. This ensures a consistent user experience across different platforms.
+
+### C. Testing the page
+
+#### Testing process
+
+I tested the website on different browsers and devices to ensure compatibility and responsiveness. I also tested the website's functionality by filling out the online application form and submitting it successfully.
+
+#### Testing results
+
+The website is compatible with all major browsers, including Chrome, Firefox and Edge. It is also compatible with mobile devices and tablets, ensuring a consistent user experience across different platforms.
+
+The website is responsive across different devices and screen sizes, ensuring a consistent user experience across different platforms.
+
+Form testing:
+
+| Test | Result | Notes |
+| ---- | ------ | ----- |
+| Filling out form with valid data | Success | The form with valid data works successfully. Screenshots: ![ValidForm](docIMG/ValidForm.png) ![SuccessModal](docIMG/SUCCESSMODAL.png)|
+| Filling out form with invalid data | Success | The form with invalid data is not allowed to be submitted, but the user is not notified of this. The only indication that it is invalid is the discolored submit button.![InvalidForm](docIMG/InvalidForm.png)|
+| Filling out form with no data | Success | The form with no data is not allowed to be submitted, but the user is not notified of this. The only indication that it is invalid is the discolored submit button.![NoDataForm](docIMG/NoDataForm.png)|
+
+#### Improvements
+
+The form validation could be improved by adding a message to the user when the form is invalid. This would help the user understand why the form is invalid and how to fix it.
+

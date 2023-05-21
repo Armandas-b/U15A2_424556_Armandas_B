@@ -1,4 +1,8 @@
+#Ignore folders
+
 Prototype_test/
+
+#Ignore files
 HBWLogo.png
 PLAN.png
 png-transparent-codecademy-learning-learn-sql-computer-programming-centralisation-angle-text-rectangle.jpg
